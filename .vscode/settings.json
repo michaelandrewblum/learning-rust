@@ -1,0 +1,6 @@
+{
+    "files.watcherExclude": {
+        "**/target/**": true
+    },
+    "remote.WSL.fileWatcher.polling": true
+}
